@@ -7,7 +7,7 @@ I have a strong focus on creating visually appealing and user-friendly websites.
 Let's combine our shared interests and create web experiences that engage and inspire!
 
 - 🔭 I’m currently working on becoming a <b>Full Stack Developer</b>. 
-- 🌱 I’m currently learning <b>Express.js</b> and <b>React</b>.
+- 🌱 I’m currently learning <b>React</b> and <b>Next.js</b>.
 - 💬 Ask me about <b>Web Accessibility</b>
 - ⚡ Fun fact: I have Bachelor's Degree in business, I love photography and watching cooking shows.
 
