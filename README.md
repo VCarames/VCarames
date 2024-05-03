@@ -7,8 +7,8 @@ I have a strong focus on creating visually appealing and user-friendly websites.
 Let's combine our shared interests and create web experiences that engage and inspire!
 
 - 🔭 I’m currently working on becoming a <b>Full Stack Developer</b>. 
-- 🌱 I’m currently learning <b>React</b> and <b>Next.js</b>.
-- 💬 Ask me about <b>Web Accessibility</b>
+- 🌱 I’m currently learning ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white).
+- 💬 Ask me about <b>Web Accessibility</b> and <b>Responsiveness<b/>
 - ⚡ Fun fact: I have Bachelor's Degree in business, I love photography and watching cooking shows.
 
 <h2>Tools & Software:</h2>
