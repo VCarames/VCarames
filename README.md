@@ -11,10 +11,6 @@ Let's combine our shared interests and create web experiences that engage and in
 - 💬 Ask me about <b>Web Accessibility</b>
 - ⚡ Fun fact: I have Bachelor's Degree in business, I love photography and watching cooking shows.
 
-![IMG_4218](https://user-images.githubusercontent.com/109115310/213842977-7fc843a1-9d99-4162-853e-53a088d9683f.gif)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=VCarames&theme=ocean-gradient&mode=weekly&card_width=600)](https://git.io/streak-stats)
-
 <h2>Tools & Software:</h2>
 
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
@@ -47,6 +43,12 @@ Let's combine our shared interests and create web experiences that engage and in
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=VCarames&theme=ocean-gradient&mode=weekly&card_width=600)](https://git.io/streak-stats)
+
+![IMG_4218](https://user-images.githubusercontent.com/109115310/213842977-7fc843a1-9d99-4162-853e-53a088d9683f.gif)
+
+
 
 <!--
 **VCarames/VCarames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
